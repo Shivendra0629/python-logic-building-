@@ -107,9 +107,9 @@ Each Python file contains the following things:-
 
 Example files:
 
-'python_day01_loops.py'
-'python_day02_loops.py'
-'python_day03_loops.py'
+'python_day01_loops.py'  
+'python_day02_loops.py'  
+'python_day03_loops.py'  
 
 
 ## TOOLS USED 
